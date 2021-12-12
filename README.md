@@ -15,3 +15,4 @@ Once there, rename the current, valid de_office.bsp file to something else, and 
  
     map cs_office
     
+This repository contains content from Valve, reproduced here with no infringment intended.
