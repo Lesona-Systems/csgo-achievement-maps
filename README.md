@@ -7,7 +7,7 @@ Navigate to the CSGO directory inside the Steam install directory:
 
     steam\steamapps\common\Counter-Strike Global Offensive\csgo\maps
     
-Once there, rename the current, valid de_office.bsp file to something else, and drop all four maps into the folder. Once in-game, players can launch the maps through the console command as follows:
+Once there, rename the current, valid bsp files (example: cs_office.bsp) to something else if you don't want to reverify your game files, and drop all four maps into the folder. Once in-game, players can launch the maps through the console command as follows:
 
     map mapname
     
@@ -15,4 +15,6 @@ Once there, rename the current, valid de_office.bsp file to something else, and 
  
     map cs_office
     
-This repository contains content from Valve, reproduced here with no infringment intended.
+Fulfill achievement criteria and the achievement should pop. Office is the easiest map to test, requiring the player to break a certain number of windows in a single round. Other maps will require adjustments to cfg files for the required gamemodes to load properly.
+
+This repository contains currently unavailable, original content from Valve, reproduced and archived here with no infringment intended.
