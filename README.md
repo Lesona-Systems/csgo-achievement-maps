@@ -11,7 +11,7 @@ Navigate to the CSGO directory inside the Steam install directory:
     
  Once there, rename the current, valid bsp files (example: cs_office.bsp) to something else if you don't want to reverify your game files, and drop all four maps into the folder. Once in-game, launch the maps through the console command as follows:
 
-    map mapname
+    map $mapname
     
  For example:
  
